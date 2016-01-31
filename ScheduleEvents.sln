@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SceduleEvents", "SceduleEvents.csproj", "{948A0B35-3C39-4AA3-8D1C-4DF271B73FB8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleEvents", "ScheduleEvents.csproj", "{948A0B35-3C39-4AA3-8D1C-4DF271B73FB8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{560FBC49-D638-4910-AC3B-B39D3F093BA9}"
 EndProject
