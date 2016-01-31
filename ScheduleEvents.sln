@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScheduleEvents", "ScheduleEvents.csproj", "{948A0B35-3C39-4AA3-8D1C-4DF271B73FB8}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{560FBC49-D638-4910-AC3B-B39D3F093BA9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{172746D4-C3F0-45AC-A3FA-6E6925600BF8}"
@@ -23,10 +21,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{948A0B35-3C39-4AA3-8D1C-4DF271B73FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{948A0B35-3C39-4AA3-8D1C-4DF271B73FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{948A0B35-3C39-4AA3-8D1C-4DF271B73FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{948A0B35-3C39-4AA3-8D1C-4DF271B73FB8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6D24467D-1BB8-4429-AF17-AD8474E246FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6D24467D-1BB8-4429-AF17-AD8474E246FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D24467D-1BB8-4429-AF17-AD8474E246FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
